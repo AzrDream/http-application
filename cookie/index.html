@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>cookie</title>
+    <style>
+        div {
+            width: 300px;
+            height: 200px;
+            border: 1px solid #000;
+        }
+    </style>
+</head>
+<body>
+<button>获取cookie</button>
+<div></div>
+<script>
+    let oBtn = document.querySelector('button');
+    let oDiv = document.querySelector('div');
+    // 在点击获取cookie按钮后将本页面的cookie展示到div中
+    oBtn.onclick = function () {
+        oDiv.innerText = document.cookie;
+    }
+</script>
+</body>
+</html>
