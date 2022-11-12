@@ -13,8 +13,9 @@
 
 04-cache：缓存头Cache-Control的含义和使用  
 
-05-Last-Modified&&Etag：缓存验证Last-Modified和Etag的使用
+05-Last-Modified&&Etag：缓存验证Last-Modified和Etag的使用  
 
+06-cookie：http中cookie的使用以及相关设置
 
 ## 相关笔记
 
