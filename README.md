@@ -21,7 +21,9 @@
 
 08-accept：数据协商相关  
 
-09-Redirect：重定向相关
+09-Redirect：重定向相关  
+
+10-CSP：Content-Security-Policy，内容安全策略
 
 ## 相关笔记
 
