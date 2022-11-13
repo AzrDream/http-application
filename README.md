@@ -15,7 +15,9 @@
 
 05-Last-Modified&&Etag：缓存验证Last-Modified和Etag的使用  
 
-06-cookie：http中cookie的使用以及相关设置
+06-cookie：http中cookie的使用以及相关设置  
+
+07-connection：HTTP长连接
 
 ## 相关笔记
 
