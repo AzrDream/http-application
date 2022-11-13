@@ -19,7 +19,9 @@
 
 07-connection：HTTP长连接  
 
-08-accept：数据协商相关
+08-accept：数据协商相关  
+
+09-Redirect：重定向相关
 
 ## 相关笔记
 
