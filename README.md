@@ -17,7 +17,9 @@
 
 06-cookie：http中cookie的使用以及相关设置  
 
-07-connection：HTTP长连接
+07-connection：HTTP长连接  
+
+08-accept：数据协商相关
 
 ## 相关笔记
 
